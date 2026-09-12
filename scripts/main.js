@@ -1,6 +1,6 @@
 const studentName = "Бачиш Павло";
 const group = "ІН-42/2";
-const emoji = "...";
+const emoji = "🔥";
 
 // Проста генерація унікального ID сторінки (час + випадкова частина)
 function generatePageId() {
